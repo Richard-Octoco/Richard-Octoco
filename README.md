@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Richard Erlston @Ricahrd-Octoco
+- 👋 Hi, I’m Richard Erlston @Richard-Octoco
 - 👀 I’m interested in Software Engineering for almost anything, currently into home automation especially around solar panel and battery management to counter load shedding effectively
 - 🌱 I’m currently learning flutter, REACT, Angular
 - 💞️ I’m looking to collaborate on Octoco projects
